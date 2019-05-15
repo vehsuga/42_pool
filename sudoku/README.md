@@ -9,6 +9,7 @@ __The program takes 9 argument eachof which represents a puzzle line consisting 
 **To run:** `./sudoku [9 lines here]`
 
 **Example input grids:**
+
 `...7.2... 1...4...7 65.....94 47.8.1.62 ......... 58.2.9.13 86.....75 9...6...8 ...9.8...`
 ![solution](http://article.sapub.org/image/10.5923.j.jgt.20140301.01_028.gif)
 
