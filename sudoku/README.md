@@ -1,7 +1,10 @@
 ## Sudoku Solver
+
 ---
-This algorithm solves [**__valid__**] 9x9 Sudoku puzzles.
+This algorithm solves [**__valid__**](https://en.wikipedia.org/wiki/Mathematics_of_Sudoku#Overview) 9x9 Sudoku puzzles.
+
 ---
+
 __The program takes 9 argument eachof which represents a puzzle line consisting of numbers and '.' for empty squares__
 
 **To compile:** `gcc -Wall -Werror -Wextra src/main.c src/solver.c -o sudoku`
