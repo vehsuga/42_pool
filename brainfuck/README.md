@@ -7,6 +7,6 @@ __brainfuck__ is an esoteric programming language created in 1993 by Urban Müll
 ---
 *This interpreter operates on buffer of size 4096. Change buffer size for programs that require more space to perate on.*
 
-**To compile:** 'gcc -Wall -Werror -Wextra brainfuck.c -o bf'
+**To compile:** ' gcc -Wall -Werror -Wextra brainfuck.c -o bf '
 
-**To run:** './bf "brainfuck program here"
+**To run:** ' ./bf "brainfuck program here '
