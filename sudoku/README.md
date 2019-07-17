@@ -5,7 +5,7 @@ This algorithm solves [**__valid__**](https://en.wikipedia.org/wiki/Mathematics_
 
 ---
 
-_The program takes 9 argument eachof which represents a puzzle line consisting of numbers and '.' for empty squares_
+_The program takes 9 argument each of which represents a puzzle line consisting of numbers and '.' for empty squares_
 
 **To compile:** `gcc -Wall -Werror -Wextra src/main.c src/solver.c -o sudoku`
 
